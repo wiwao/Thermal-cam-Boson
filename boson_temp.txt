@@ -1,0 +1,8 @@
+mimTempD= 0.0
+mimTempR= 15594
+midTempD= 35.3
+midTempR= 21692
+maxTempD= 100.0
+maxTempR= 40063
+nawTempD= 42.2
+

@@ -1,0 +1,12 @@
+[Unit]
+Description=Capture BOSON Image Service
+After=network.target 
+[Service]
+Type=simple
+ExecStart=/home/pi/start.sh
+StandardOutput=nul
+WorkingDirectory=/home/pi/
+#Restart=always
+
+[Install]
+WantedBy= multi-user.target
