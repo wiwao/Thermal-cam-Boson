@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 KDiPhone
 7654321
-=======
-ABiPhone
-123456789
->>>>>>> d4aaf77640cd5e70d79367d9fe6effc905ffeae6
